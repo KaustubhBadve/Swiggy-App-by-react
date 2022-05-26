@@ -14,6 +14,7 @@
       "deliveryTimings": "33 MINS",
       "costfortwo": "200",
       "Cash_Payment": true,
+      "Card_Payment":false,
       "offers": ["20% off", "Use TRYNEW"]
     },
 
@@ -32,6 +33,7 @@
       "deliveryTimings": "25 MINS",
       "costfortwo": "250",
       "Cash_Payment": true,
+      "Card_Payment":false,
       "offers": ["10% off", "Use TRYNEW"]
     },
 
@@ -49,6 +51,7 @@
       "rating": "4.2",
       "deliveryTimings": "31 MINS",
       "costfortwo": "200",
+      "Card_Payment":true,
       "offers": ["10% off", "Use TRYNEW"]
     },
 
@@ -66,6 +69,7 @@
       "rating": "2.0",
       "deliveryTimings": "38 MINS",
       "costfortwo": "500",
+      "Card_Payment":true,
       "offers": ["40% off", "Use TRYNEW"]
     },
 
@@ -83,6 +87,7 @@
       "rating": "4.1",
       "deliveryTimings": "45 MINS",
       "costfortwo": "600",
+      "Card_Payment":true,
       "offers": ["50% off", "Use TRYNEW"]
     },
     {
@@ -116,6 +121,7 @@
       "rating": "4.3",
       "deliveryTimings": "38 MINS",
       "costfortwo": "400",
+      "Card_Payment":true,
       "offers": ["40% off", "Use TRYNEW"]
     },
     {
@@ -132,6 +138,7 @@
       "rating": "2.3",
       "deliveryTimings": "20 MINS",
       "costfortwo": "150",
+      "Card_Payment":true,
       "offers": ["30% off", "Use TRYNEW"]
     },
     {
@@ -148,6 +155,7 @@
       "rating": "4.3",
       "deliveryTimings": "38 MINS",
       "costfortwo": "400",
+      "Card_Payment":true,
       "offers": ["40% off", "Use TRYNEW"]
     },
     {
@@ -162,6 +170,7 @@
         "Beverages"
       ],
       "rating": "4.8",
+      "Card_Payment":true,
       "deliveryTimings": "65 MINS",
       "costfortwo": "345",
       "offers": ["10% off", "Use TRYNEW"]
@@ -175,6 +184,7 @@
         "Beverages"
       ],
       "rating": "3",
+      "Card_Payment":true,
       "deliveryTimings": "32 MINS",
       "costfortwo": "520",
       "offers": ["22% off", "Use TRYNEW"]
@@ -193,6 +203,8 @@
       "rating": "1.3",
       "deliveryTimings": "38 MINS",
       "costfortwo": "220",
+      "Card_Payment":false,
+      "Cash_Payment":true,
       "offers": ["10% off", "Use TRYNEW"]
     }, {
       "ID":13,
@@ -208,6 +220,7 @@
       "rating": "4.3",
       "deliveryTimings": "25 MINS",
       "costfortwo": "360",
+      "Cash_Payment":true,
       "offers": ["5% off", "Use TRYNEW"]
     },
     {
@@ -222,6 +235,7 @@
       "rating": "5",
       "deliveryTimings": "60 MINS",
       "costfortwo": "550",
+      "Card_Payment":true,
       "offers": ["10% off", "Use TRYNEW"]
     }
   ]

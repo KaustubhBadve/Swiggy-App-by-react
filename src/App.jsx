@@ -15,7 +15,8 @@ const filters={
   2:"Cost Low to High",
   3:"Ratings",
   4:"Cash Only",
-  5:"Card Only"
+  5:"Card Only",
+  6:"Clear all Filters"
 
 };
 
@@ -54,8 +55,20 @@ const updateFilter=(newfilter)=>{
       case "4":{
         
         setFilterBy(4)
-        data.filter(data=>data.Cash_Payment!==true)
-          setData([...data])
+       let data1= data.filter(data1=>data1.Cash_Payment==true)
+          setData([...data1])
+        break;
+      }
+      case "5":{
+        
+        setFilterBy(5)
+       let data2= data.filter(data2=>data2.Card_Payment==true)
+          setData([...data2])
+        break;
+      }
+      case "6":{
+        setFilterBy(6)
+          setData(restaurant)
         break;
       }
        default:{
@@ -69,9 +82,13 @@ const updateFilter=(newfilter)=>{
     <div>
      <Navbar {...navbarlocationinfo.location}/>
      <Offers offers={offers}/>
+     <div className="pageirsm">
+       <button  >{`>`}</button>
+       <button >{`<`}</button>
+     </div>
      <section className="near-you">
      <Filters filter={filters} currentFilterBy={filterBy} updateFilter={updateFilter}/>
-     <Restaurant restaurant={data}/>
+     <Restaurant  restaurant={data}/>
      </section>
     </div>
   );
