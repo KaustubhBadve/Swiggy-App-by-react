@@ -1,0 +1,231 @@
+[
+    {
+      "ID": 1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costfortwo": "200",
+      "Cash_Payment": true,
+      "offers": ["20% off", "Use TRYNEW"]
+    },
+
+    {
+      "ID": 2,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+      "name": "MH 12 Pav Bhaji",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.0",
+      "deliveryTimings": "25 MINS",
+      "costfortwo": "250",
+      "Cash_Payment": true,
+      "offers": ["10% off", "Use TRYNEW"]
+    },
+
+    {
+      "ID": 3,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+      "name": "Lunch Box",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.2",
+      "deliveryTimings": "31 MINS",
+      "costfortwo": "200",
+      "offers": ["10% off", "Use TRYNEW"]
+    },
+
+    {
+      "ID": 4,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+      "name": "The Hungry Hippe",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "2.0",
+      "deliveryTimings": "38 MINS",
+      "costfortwo": "500",
+      "offers": ["40% off", "Use TRYNEW"]
+    },
+
+    {
+      "ID": 5,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+      "name": "Ovenstory Pizzas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.1",
+      "deliveryTimings": "45 MINS",
+      "costfortwo": "600",
+      "offers": ["50% off", "Use TRYNEW"]
+    },
+    {
+      "ID": 6,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+      "name": "Starbucks Coffee",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "38 MINS",
+      "costfortwo": "400",
+      "Cash_Payment": true,
+      "offers": ["40% off", "Use TRYNEW"]
+    },
+    {
+      "ID": 7,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+      "name": "Starbucks Coffee",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "38 MINS",
+      "costfortwo": "400",
+      "offers": ["40% off", "Use TRYNEW"]
+    },
+    {
+      "ID":8,
+      "image": "https://tse1.mm.bing.net/th?id=OIP._x2dHnIijcLhxM-zvWZExwHaJ4&pid=Api&P=0&w=141&h=188",
+      "name": "Durga Cafe",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "2.3",
+      "deliveryTimings": "20 MINS",
+      "costfortwo": "150",
+      "offers": ["30% off", "Use TRYNEW"]
+    },
+    {
+      "ID":9,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+      "name": "Starbucks Coffee",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "38 MINS",
+      "costfortwo": "400",
+      "offers": ["40% off", "Use TRYNEW"]
+    },
+    {
+      "ID":10,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.1iTBlGhJ8gT0iRE7JGzGcwHaDt&pid=Api&P=0&w=354&h=177",
+      "name": "Supreme Corner",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.8",
+      "deliveryTimings": "65 MINS",
+      "costfortwo": "345",
+      "offers": ["10% off", "Use TRYNEW"]
+    },
+    {
+      "ID":11,
+      "image": "http://www.retail4growth.com/public/uploads/editor/2020-09-21/1600665663.jpg",
+      "name": "Pizza Hut",
+      "category": [
+        "Pizza",
+        "Beverages"
+      ],
+      "rating": "3",
+      "deliveryTimings": "32 MINS",
+      "costfortwo": "520",
+      "offers": ["22% off", "Use TRYNEW"]
+    },
+    {
+      "ID":12,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+      "name": "Starbucks Coffee",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "1.3",
+      "deliveryTimings": "38 MINS",
+      "costfortwo": "220",
+      "offers": ["10% off", "Use TRYNEW"]
+    }, {
+      "ID":13,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.hFqTvVTfXgyeByQ0bzV_ZQHaHX&pid=Api&P=0&w=166&h=165",
+      "name": "ShivShakti",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "25 MINS",
+      "costfortwo": "360",
+      "offers": ["5% off", "Use TRYNEW"]
+    },
+    {
+      "ID":14,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.I_qbRDGgAG1HeNz15DLAcwHaFj&pid=Api&P=0&w=241&h=180",
+      "name": "Kaveri",
+      "category": [
+        "North India",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "5",
+      "deliveryTimings": "60 MINS",
+      "costfortwo": "550",
+      "offers": ["10% off", "Use TRYNEW"]
+    }
+  ]
+                    
+                   
+                    
+                   
